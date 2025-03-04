@@ -12,6 +12,7 @@
   <br><strong>NRP : 3123500017<strong>
   <br><strong>Kelas : 2 D3 IT A<strong>
   </p>
+</div>
 
 # Rangkuman UNIX dan LINUX
 
